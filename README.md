@@ -1,4 +1,4 @@
-# DTSA-5511_Week5
+# DTSA-5511_Final
 Week 6 Final Project for DTSA-5511
 
 This is a project experimenting with autoencoders and applying them to the Kaggle [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) dataset to detect fraudulent credit card transactions.  
